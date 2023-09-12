@@ -48,7 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="75dp"
         android:layout_marginTop="352dp"
-        android:background="@color/butonRengi"
+        android:background="@color/anaEkran"
         android:fontFamily="@font/antic_didone"
         android:gravity="center"
         android:text="@string/latte"

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaLobaCoffeeBook</string>
+    <string name="laLoba">LA LOBA</string>
+    <string name="latte">LATTE</string>
+    <string name="latteAciklamasi">Caffe Latte Espresso\'nun sıcak köpüklü buharlanmış süt ile karıştırılarak yapılmasından elde edilir.</string>
+    <string name="bitkiselSüt">+ Bitkisel Süt</string>
+    <string name="laktozsuzSüt">+ Laktozsuz Süt</string>
+    <string name="fiyat">₺52,00</string>
+    <string name="sepeteEkle">SEPETE EKLE</string>
+</resources>

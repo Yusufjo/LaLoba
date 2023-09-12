@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaLobaCoffeeBook</string>
+    <string name="laLoba">LA LOBA</string>
+    <string name="latte">LATTE</string>
+    <string name="latteAciklamasi">Caffe Latte is made by mixing Espresso with hot frothy steamed milk.</string>
+    <string name="bitkiselSüt">+ Herbal Milk</string>
+    <string name="laktozsuzSüt">+ Laktose Free Milk</string>
+    <string name="fiyat">$5,18</string>
+    <string name="sepeteEkle">ADD TO CART</string>
+</resources>
